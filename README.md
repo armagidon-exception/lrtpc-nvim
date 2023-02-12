@@ -33,6 +33,8 @@ so make sure that you open your file in folder where `.lrtpc-conf` contains
 
 ```~/foo/bar``` will be expaneded to ```/home/{user}/foo/bar```
 
+**Note: For now the plugin only supports `lua_ls`. If you want to add more, see `lsps.lua` and `lsps/lua_ls.lua`**
+
 ## Configuring AwesomeWM
 This plugin was created to have intellisense for AwesomeWM
 
